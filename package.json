@@ -75,6 +75,6 @@
   },
   "dependencies": {
     "prop-types": "^15.7.2",
-    "BryanDeNijs/react-input-position": "master"
+    "react-input-position": "BryanDeNijs/react-input-position#master"
   }
 }
